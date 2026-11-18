@@ -1,0 +1,17 @@
+Contract_ID,Client,Contract_Type,Start_Date,End_Date,Notice_Days,Value_GBP
+C-001,Harbour Trading Ltd,Service Agreement,2024-01-01,2027-01-31,30,45000
+C-002,Seaview Holdings Ltd,Lease,2023-06-01,2028-05-31,90,120000
+C-003,Granite Bay Partners,Consultancy,2025-03-01,2027-02-28,60,18500
+C-004,Elm Street Capital,NDA,2025-09-15,2026-12-31,14,0
+C-005,Northshore Logistics,Supply Agreement,2024-04-01,2027-03-31,90,76000
+C-006,,Service Agreement,2025-01-01,2026-12-31,30,22000
+C-007,Bluewater Trust Co,Licence,2025-05-01,2027-04-30,60,9800
+C-008,Castle Point Ltd,Consultancy,2026-01-01,2027-01-15,30,15000
+C-009,Atlantic Fund Services,Service Agreement,2024-07-01,2027-06-30,90,54000
+C-009,Atlantic Fund Services,Service Agreement,2024-07-01,2027-06-30,90,54000
+C-010,St Aubin Ventures,Lease,2025-02-30,2030-01-31,180,210000
+C-011,Rozel Property Ltd,Maintenance,2025-08-01,2027-07-31,30,-6400
+C-012,Gorey Marine Ltd,Supply Agreement,2026-06-01,2025-12-31,60,33000
+C-013,Bouley Bay Consulting,Consultancy,2025-11-01,2027-01-10,45,12500
+C-014,La Rocque Estates,Lease,2022-10-01,2027-09-30,120,98000
+C-015,Plemont Digital Ltd,Licence,2026-02-01,2027-02-15,60,7200
