@@ -1,0 +1,4 @@
+streamlit
+pandas
+python-docx
+claude-agent-sdk
