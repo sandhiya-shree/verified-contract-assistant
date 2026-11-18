@@ -22,3 +22,7 @@ Python, Streamlit, pandas, python-docx, Claude Agent SDK
 4. Upload `contract_register.csv` (sample data with deliberate errors)
 
 *All client names in the sample data are fictional.*
+<img width="1814" height="810" alt="image" src="https://github.com/user-attachments/assets/36ee4eb6-af12-48d8-bd7c-469d95e5a2a0" />
+<img width="1776" height="730" alt="image" src="https://github.com/user-attachments/assets/6ca7d999-b258-445b-85de-e1c6665cfe1f" />
+<img width="1818" height="830" alt="image" src="https://github.com/user-attachments/assets/5c07d71f-a7a4-4e4c-8444-115e84eb3e11" />
+<img width="1806" height="503" alt="image" src="https://github.com/user-attachments/assets/1b324a8d-3873-4e7e-86e8-55c860748161" />
